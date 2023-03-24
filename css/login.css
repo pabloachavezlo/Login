@@ -1,0 +1,84 @@
+.encabezado {
+    margin-top: 3rem;
+    text-align: center;
+    font-weight: 500;
+    height: 36px;
+}
+
+.cuadro {
+    display: block;
+    border: 1px solid var(---color4);
+    border-radius: 1rem;
+    height: 453px;
+    width: 343px;
+    margin-left: 142px;
+    margin-top: 9px;
+}
+
+.cuadro > .usuario {
+    margin: 0rem 2.5rem;
+    margin-top: 6rem;
+    display: block;
+}
+
+.usuario > h2 {
+    font-size: 14px;
+    font-family: 'Roboto';
+    color: var(---color1);
+    font-weight: 500;
+    height: 20px;
+    width: 123px;
+    font-style: normal;
+}
+
+.usuario > .txt {
+    margin: 5px 0rem;
+    height: 35px;
+    width: 16rem;
+    border: 1px solid var(---color1);
+    border-radius: 5px;
+}
+
+.cuadro > .contraseña {
+    margin: 0rem 2.5rem;
+    margin-top: 3rem;
+    display: block;
+}
+
+.contraseña > h2 {
+    font-size: 14px;
+    font-family: 'Roboto';
+    color: var(---color1);
+    font-weight: 500;
+    height: 20px;
+    width: 123px;
+    font-style: normal;
+}
+
+.contraseña > .txt {
+    margin: 5px 0rem;
+    height: 35px;
+    width: 16rem;
+    border: 1px solid var(---color1);
+    border-radius: 5px;
+}
+
+.cuadro > .inicia {
+    margin-top: 3.8rem;
+    margin-left: 6rem;
+    background-color: var(---color1);
+    height: 2.5rem;
+    width: 8rem;
+    border-radius: 18px;
+    border: none;
+}
+
+.inicia > span {
+    color: var(---color2);
+}
+
+
+
+
+
+
